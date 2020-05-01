@@ -1,1 +1,1 @@
-# UFC-QUIZ-APP-WIreframe
+# UFC-QUIZ-APP-Wireframe
